@@ -40,6 +40,16 @@ An inventory tracker using Python dictionaries:
 
 ---
 
+### 4. 📊 FeedbackAnalyzer.py
+A simple program to collect and analyze user feedback:
+- Allows users to input multiple feedback entries.
+- Analyzes feedback for the count of specific keywords.
+- Extracts phrases starting with "I feel" or "I think".
+
+> 🔧 Concepts Used: Lists, loops, dictionaries, string manipulation, user input handling
+
+---
+
 ## ✅ Getting Started
 
 ### 1. Clone the Repository
