@@ -1,4 +1,3 @@
-
 # 🐍 Python Basic Projects
 
 Welcome to the **Python Basic Projects** repository!  
@@ -50,6 +49,22 @@ A simple program to collect and analyze user feedback:
 
 ---
 
+### 5. ✅ PersonalTaskManager.py
+A command-line task management application to organize your daily tasks:
+- Add new tasks with descriptions and status
+- View all existing tasks
+- Update task descriptions
+- Mark tasks as complete
+- Delete completed tasks
+- Clean up duplicate tasks
+
+Tasks are saved in `tasks.txt` in the format:  
+`ID | Description | Status`
+
+> 🔧 Concepts Used: File I/O, string manipulation, conditionals, loops, sets, modular programming
+
+---
+
 ## ✅ Getting Started
 
 ### 1. Clone the Repository
@@ -58,6 +73,7 @@ To get a copy of this project on your local machine, run:
 ```bash
 git clone https://github.com/Mahim-111/Python_Basic_Project-
 cd Python_Basic_Project-
+```
 
 ---
 
@@ -66,6 +82,8 @@ Each file is standalone. Run it with Python 3:
 
 ```bash
 python BankAccount.py
+# or
+python PersonalTaskManager.py
 ```
 
 ---
@@ -76,19 +94,20 @@ These projects will help you practice and reinforce:
 - Python syntax and indentation
 - Input/output with users
 - Working with data structures like lists and dictionaries
-- Writing functions
+- Writing functions and using modules
+- File handling and text processing
 - Using basic logic and control flow
 
 ---
 
 ## 🙌 Contributing
 
-Have a beginner-friendly Python script to add?
+Have a beginner-friendly Python script to add?  
 We welcome contributions!
 
-1. Fork the repository
-2. Add your `.py` file with proper comments and formatting
-3. Submit a pull request
+1. Fork the repository  
+2. Add your `.py` file with proper comments and formatting  
+3. Submit a pull request  
 
 > Please ensure your code is beginner-friendly and educational.
 
@@ -102,5 +121,16 @@ If you find this repository helpful:
 - Feel free to suggest new project ideas via Issues or Discussions
 
 ---
+
+## 👨‍💻 Author
+
+**Md Mahim Babu**  
+📧 Email: [mahimbabu111111@gmail.com](mailto:mahimbabu111111@gmail.com)  
+🏫 B.Sc. in CSE, University of Rajshahi  
+🌐 GitHub: [Mahim-111](https://github.com/Mahim-111)
+
+
+---
+
 
 **Happy Learning & Coding! 🚀**
